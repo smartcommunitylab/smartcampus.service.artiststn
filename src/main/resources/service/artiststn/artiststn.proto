@@ -1,0 +1,13 @@
+package eu.trentorise.smartcampus.service.artiststn.data.message;
+
+import "core.proto";
+
+message Artist {
+ required string id = 1;
+ required string name = 2;
+ optional string description = 3;
+ optional string link = 4;
+ optional string img = 5;  
+ repeated string times = 6;
+ required it.sayservice.platform.core.message.POI poi = 7;
+}

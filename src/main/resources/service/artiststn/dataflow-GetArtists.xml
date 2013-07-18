@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataflow
+xmlns="http://www.example.org/mml-schema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.example.org/mml-schema mml-schema.xsd ">
+
+	<script outputVar="output">
+		<className>eu.trentorise.smartcampus.service.artiststn.script.ArtistsScript</className>
+		<method>load</method>
+	</script>		
+	
+</dataflow>
