@@ -60,11 +60,11 @@
         "le" : [ { "a" : "Via Clementino Vannetti, 14, Trento",
               "clr" : "p",
               "id" : 46007264,
-              "nm" : "\"Sacred Circle\", Michele Ojas Azzaro",
-              "ov" : "\"Sacred Circle\", Michele Ojas Azzaro"
+              "nm" : "\"Sacred Circle\", Ojas Michele Azzaro",
+              "ov" : "\"Sacred Circle\", Ojas Michele Azzaro"
             } ],
         "lng" : 11.123021,
-        "nm" : "\"Sacred Circle\", Michele Ojas Azzaro",
+        "nm" : "\"Sacred Circle\", Ojas Michele Azzaro",
         "s" : "Via Clementino Vannetti, 14"
       },
       { "c" : "F",
@@ -252,11 +252,11 @@
         "le" : [ { "a" : "Vicolo di Piedicastello, Trento",
               "clr" : "p",
               "id" : 46012604,
-              "nm" : "\"Misure e ritmi\", Giovanna Strada",
-              "ov" : "\"Misure e ritmi\", Giovanna Strada"
+              "nm" : "\"Misure e ritmi – Misure e ritmi continuum\", Giovanna Strada",
+              "ov" : "\"Misure e ritmi – Misure e ritmi continuum\", Giovanna Strada"
             } ],
         "lng" : 11.114319,
-        "nm" : "\"Misure e ritmi\", Giovanna Strada",
+        "nm" : "\"Misure e ritmi – Misure e ritmi continuum\", Giovanna Strada",
         "s" : "Vicolo di Piedicastello"
       },
       { "c" : "F",
@@ -264,14 +264,14 @@
         "clr" : "p",
         "cty" : "IT",
         "e" : [ 46012845 ],
-        "lat" : 46.062525000000001,
+        "lat" : 46.062929,
         "le" : [ { "a" : "Le Albere, Trento",
               "clr" : "p",
               "id" : 46012845,
               "nm" : "\"WE\", Valentina Miorandi",
               "ov" : "\"WE\", Valentina Miorandi"
             } ],
-        "lng" : 11.125071999999999,
+        "lng" : 11.113419,
         "nm" : "\"WE\", Valentina Miorandi",
         "s" : "Le Albere"
       },
